@@ -1,0 +1,19 @@
+.knockout {
+  background-image: linear-gradient(to right, #efe6d7 , #8c5802);
+  font-family: 'Faster One', cursive;
+  height: 100vh;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+text:nth-child(2) {
+  font-size: 4em;
+}
+
+text:nth-child(3) {
+  font-size: 5.8em;
+}
+
+text:nth-child(4) {
+  font-size: 7em;
+}
